@@ -1,1 +1,1 @@
-# git-code
+# odin-recipes
